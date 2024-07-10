@@ -22,6 +22,8 @@ function LikeBtn({ id }) {
       },
     });
 
+    console.log(response)
+
     if (response.status === 200) {
       mutate(`/api/likes/${id}`);
       setLoading(false);
