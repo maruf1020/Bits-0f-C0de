@@ -28,11 +28,17 @@ function about({ topics }) {
           . Nice to meet you.
         </h2>
         <p className="text-gray-600 mt-4 dark:text-indigo-200">
-          I am a self taught developer currently pursuing IMSC in Maths and
-          Computing in BIT Mesra. My field of Interest's are building new Web
-          Technologies and Products and also in areas related to Deep Learning
-          and Natural Launguage Processing.
+          Hi Everyone, I am Maruf Billah from Dhaka, Bangladesh. I am currently employed as a software Engineer 2 at Echologyx. I have completed Integrated BSc in Computer Science and Engineering at NSU, Dhaka.
         </p>
+        <br />
+        <br />
+        <blockquote className="blockquote mb-0">
+          <p style={{ color: "rgb(155 126 172)" }}>
+            "I am not merely a developer or programmer who writes code for a specific programming language. I am an Engineer, a problem solver at heart."
+          </p>
+          <br />
+          <footer className="blockquote-footer">- Maruf Billsh</footer>
+        </blockquote>
 
         <div className="text-center pt-8">
           <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded dark:bg-indigo-600">
