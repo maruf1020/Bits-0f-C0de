@@ -46,7 +46,7 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://soumyajit.vercel.app/"
+              href="https://www.linkedin.com/in/marufbillah1020/"
             >
               See My Works
             </a>
